@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pullman14/file-upload-metadata/issues"
   },
-  "homepage": "https://github.com/pullman14/file-upload-metadata#readme"
+  "homepage": "https://github.com/pullman14/file-upload-metadata#readme",
+  "dependencies": {
+    "multer": "^1.3.0"
+  }
 }

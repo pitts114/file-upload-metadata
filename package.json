@@ -1,0 +1,19 @@
+{
+  "name": "file-upload-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pullman14/file-upload-metadata.git"
+  },
+  "author": "pullman14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pullman14/file-upload-metadata/issues"
+  },
+  "homepage": "https://github.com/pullman14/file-upload-metadata#readme"
+}
